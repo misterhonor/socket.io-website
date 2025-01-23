@@ -18,7 +18,7 @@ First let’s create a `package.json` manifest file that describes our project. 
 
 ```json
 {
-  "name": "socket-chat-example",
+  "name": "tchedji honoré "
   "version": "0.0.1",
   "description": "my first socket.io app",
   "type": "commonjs",
